@@ -9,16 +9,12 @@
 - example usage
   ```
   # use the proteinalignment.rb
-  # alignmentextractordraft.rb is for building the graphql queries
-  #                              from the alignments coming from the genome alignments. 
+  # alignmentextractordraft.rb for analyzing the alignments coming from the genome alignments. 
   # after initiating the class constructor
   getcorrdinates("/home/gaurav/Desktop/sample.gff", "/home/gaurav/Desktop/sample.txt", type = "mRNA")
   ```
 - it also has the visualization support for the plotting differences.
 
-Gaurav \
-Academic Staff Member \
-Bioinformatics \
-Institute for Biochemistry and Biology \
+Gaurav Sablok
 University of Potsdam \
 Potsdam,Germany
