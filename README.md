@@ -15,6 +15,6 @@
   ```
 - it also has the visualization support for the plotting differences.
 
-Gaurav Sablok
+Gaurav Sablok \
 University of Potsdam \
 Potsdam,Germany
